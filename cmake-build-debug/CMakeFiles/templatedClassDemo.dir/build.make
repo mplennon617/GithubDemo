@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo
+CMAKE_SOURCE_DIR = C:\Users\mplen\ta-code\GithubDemo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/templatedClassDemo.dir/depend.make
@@ -58,42 +58,42 @@ include CMakeFiles/templatedClassDemo.dir/flags.make
 
 CMakeFiles/templatedClassDemo.dir/main.cpp.obj: CMakeFiles/templatedClassDemo.dir/flags.make
 CMakeFiles/templatedClassDemo.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/templatedClassDemo.dir/main.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\main.cpp.obj -c C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/templatedClassDemo.dir/main.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\main.cpp.obj -c C:\Users\mplen\ta-code\GithubDemo\main.cpp
 
 CMakeFiles/templatedClassDemo.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/templatedClassDemo.dir/main.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\main.cpp > CMakeFiles\templatedClassDemo.dir\main.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\GithubDemo\main.cpp > CMakeFiles\templatedClassDemo.dir\main.cpp.i
 
 CMakeFiles/templatedClassDemo.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/templatedClassDemo.dir/main.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\main.cpp -o CMakeFiles\templatedClassDemo.dir\main.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\GithubDemo\main.cpp -o CMakeFiles\templatedClassDemo.dir\main.cpp.s
 
 CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj: CMakeFiles/templatedClassDemo.dir/flags.make
 CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj: ../Printer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\Printer.cpp.obj -c C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\Printer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\Printer.cpp.obj -c C:\Users\mplen\ta-code\GithubDemo\Printer.cpp
 
 CMakeFiles/templatedClassDemo.dir/Printer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/templatedClassDemo.dir/Printer.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\Printer.cpp > CMakeFiles\templatedClassDemo.dir\Printer.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\GithubDemo\Printer.cpp > CMakeFiles\templatedClassDemo.dir\Printer.cpp.i
 
 CMakeFiles/templatedClassDemo.dir/Printer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/templatedClassDemo.dir/Printer.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\Printer.cpp -o CMakeFiles\templatedClassDemo.dir\Printer.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\GithubDemo\Printer.cpp -o CMakeFiles\templatedClassDemo.dir\Printer.cpp.s
 
 CMakeFiles/templatedClassDemo.dir/test.cpp.obj: CMakeFiles/templatedClassDemo.dir/flags.make
 CMakeFiles/templatedClassDemo.dir/test.cpp.obj: ../test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/templatedClassDemo.dir/test.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\test.cpp.obj -c C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/templatedClassDemo.dir/test.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\templatedClassDemo.dir\test.cpp.obj -c C:\Users\mplen\ta-code\GithubDemo\test.cpp
 
 CMakeFiles/templatedClassDemo.dir/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/templatedClassDemo.dir/test.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\test.cpp > CMakeFiles\templatedClassDemo.dir\test.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mplen\ta-code\GithubDemo\test.cpp > CMakeFiles\templatedClassDemo.dir\test.cpp.i
 
 CMakeFiles/templatedClassDemo.dir/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/templatedClassDemo.dir/test.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\test.cpp -o CMakeFiles\templatedClassDemo.dir\test.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mplen\ta-code\GithubDemo\test.cpp -o CMakeFiles\templatedClassDemo.dir\test.cpp.s
 
 # Object files for target templatedClassDemo
 templatedClassDemo_OBJECTS = \
@@ -111,7 +111,7 @@ templatedClassDemo.exe: CMakeFiles/templatedClassDemo.dir/build.make
 templatedClassDemo.exe: CMakeFiles/templatedClassDemo.dir/linklibs.rsp
 templatedClassDemo.exe: CMakeFiles/templatedClassDemo.dir/objects1.rsp
 templatedClassDemo.exe: CMakeFiles/templatedClassDemo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable templatedClassDemo.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable templatedClassDemo.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\templatedClassDemo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/templatedClassDemo.dir/clean:
 .PHONY : CMakeFiles/templatedClassDemo.dir/clean
 
 CMakeFiles/templatedClassDemo.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug C:\Users\mplen\ta-code\CatchAndTemplatedClassDemo\templatedClassDemo\cmake-build-debug\CMakeFiles\templatedClassDemo.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\mplen\ta-code\GithubDemo C:\Users\mplen\ta-code\GithubDemo C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug C:\Users\mplen\ta-code\GithubDemo\cmake-build-debug\CMakeFiles\templatedClassDemo.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/templatedClassDemo.dir/depend
 

@@ -18,6 +18,7 @@ TEST_CASE("TemplatePrinter class", "[template]") {
         REQUIRE(IntPrinters[1].Get() == 2);
         REQUIRE(StringPrinters[0].Get() == "test");
         REQUIRE(StringPrinters[0].Get() == "test");
+        REQUIRE(1 == 1);
     }
 
     SECTION("Overloaded operator == "){

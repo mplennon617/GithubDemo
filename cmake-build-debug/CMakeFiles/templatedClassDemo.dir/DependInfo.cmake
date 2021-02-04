@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/Printer.cpp" "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj"
-  "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/main.cpp" "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/main.cpp.obj"
-  "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/test.cpp" "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/test.cpp.obj"
+  "C:/Users/mplen/ta-code/GithubDemo/Printer.cpp" "C:/Users/mplen/ta-code/GithubDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/Printer.cpp.obj"
+  "C:/Users/mplen/ta-code/GithubDemo/main.cpp" "C:/Users/mplen/ta-code/GithubDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/main.cpp.obj"
+  "C:/Users/mplen/ta-code/GithubDemo/test.cpp" "C:/Users/mplen/ta-code/GithubDemo/cmake-build-debug/CMakeFiles/templatedClassDemo.dir/test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

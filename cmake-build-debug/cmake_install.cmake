@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo
+# Install script for directory: C:/Users/mplen/ta-code/GithubDemo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/mplen/ta-code/CatchAndTemplatedClassDemo/templatedClassDemo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/mplen/ta-code/GithubDemo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
